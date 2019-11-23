@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d62216d1-778c-4eb2-89bc-9f6926f0f5be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CF-Java2/src/D2A3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CF-Java2/src/D2A4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CF-Java2/src/D2A6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CF-Java4/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CF-Java4/src/D4A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CF-Java4/src/D4A2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CF-Java4/src/D4A3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CF-Java4/src/D4A4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CF-Java4/src/D4A5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CF-Java4/src/D4A6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BarnabasDoebroessy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D1A3/src/Main.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1TwMBsaXFH0SLRquUgd1i8rf1rU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BarnabasDoebroessy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BarnabasDoebroessy" />
+      <module name="CFCRBDoebroessy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BarnabasDoebroessy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d62216d1-778c-4eb2-89bc-9f6926f0f5be" name="Default Changelist" comment="" />
+      <created>1574366571577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574366571577</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
